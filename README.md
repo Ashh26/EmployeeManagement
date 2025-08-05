@@ -92,7 +92,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 Inspired by real-world backend service patterns and best practices in Spring Boot.
 
 ---
-📘 [Download Employee Guide (PDF)](docs/Rest api development Employee management..pdf)
+📘 [Download Employee Guide (PDF)](docs/Rest api development Employee management.pdf)
 
 
 
